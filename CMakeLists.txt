@@ -21,6 +21,8 @@ set(PROJECT_SOURCES
         mainwindow.cpp
         mainwindow.h
         mainwindow.ui
+        matmathlib.h
+        matmathlib.cpp
         ${TS_FILES}
 )
 
